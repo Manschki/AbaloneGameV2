@@ -15,6 +15,15 @@
 	 "info": "EmptyInfo2",
 	 "status": 0
     }
+	
+	{
+	 "title": "AbaloneGameV2",
+	 "folder": "AbaloneGameV2",
+	 "author": "Manuel Seifriedsberger"
+	 "year": "2019_WS"
+	 "info": "Try to make the board game Abalone on Unity"
+	 "status": 0
+	}
    
      	 
 ]
